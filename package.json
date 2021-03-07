@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Tiesco789/react-com-mango/issues"
   },
-  "homepage": "https://github.com/Tiesco789/react-com-mango#readme"
+  "homepage": "https://github.com/Tiesco789/react-com-mango#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^3.0.0"
+  }
 }
